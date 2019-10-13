@@ -1,0 +1,50 @@
+*{margin: 0;padding: 0;}
+
+body{
+	background:url('..//img/10.jpg');
+	width: 100%;
+        height: 100%;
+	background-repeat:no-repeat;
+        background-color: #333;
+  
+
+
+.h1{
+        text-align: center;
+    font-size: 25px;
+    color:#F0FFFF;
+    
+}
+
+  
+h11 {
+    color:red;
+}
+
+#logo {
+  
+
+    
+        width:50%;
+        height:50%;
+}
+
+.panel-heading{
+    font-size:600%;
+}}
+
+.nav-item{
+    color:#F0FFFF;
+    align:center;
+     font-style: italic;
+}
+iframe{
+    margin: 0 auto;
+    width: 80%;
+    height: 50vh;
+    
+}
+.hi{width: 100%;
+    position: absolute;
+    top: 100px;
+}
